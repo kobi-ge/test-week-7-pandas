@@ -1,0 +1,1 @@
+country_avg_rat
